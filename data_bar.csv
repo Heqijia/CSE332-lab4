@@ -1,11 +1,11 @@
 ,make_k,make_v,model_k,model_v,body_k,body_v,transmission_k,transmission_v,state_k,state_v,color_k,color_v,interior_k,interior_v,region_k,region_v
-0,ford,43094,Altima,8706,sedan,115509,automatic,241376.0,fl,40112,black,49392,black,110867,southeast,85604.0
-1,chevrolet,28704,Fusion,6443,suv,63912,manual,8624.0,ca,35224,white,47307,gray,80934,midwest,51296.0
-2,nissan,23404,F-150,6335,cab,21607,,,tx,22179,silver,37674,beige,26691,pacific,40187.0
-3,toyota,18554,Camry,5840,van,14054,,,ga,16458,gray,37458,tan,19868,northeast,36085.0
-4,dodge,14419,Escape,5691,hatchback,12441,,,pa,12769,blue,22714,—,5274,southwest,26349.0
-5,honda,13157,Focus,5120,coupe,9576,,,nj,12350,red,19749,brown,3806,mountain west,10479.0
-6,hyundai,9808,Accord,4532,wagon,7600,,,il,11367,—,11751,red,615,,
-7,bmw,9384,Impala,4007,convertible,5007,,,oh,10707,gold,5032,silver,542,,
-8,kia,8388,3 Series,3767,others,294,,,tn,10262,green,4809,blue,500,,
-9,others,81088,others,199559,others,0,,,others,78572,others,14114,others,903,,
+0,others,81088,others,199559,sedan,115509,automatic,241376.0,others,78572,black,49392,black,110867,southeast,85604.0
+1,ford,43094,Altima,8706,suv,63912,manual,8624.0,fl,40112,white,47307,gray,80934,midwest,51296.0
+2,chevrolet,28704,Fusion,6443,cab,21607,,,ca,35224,silver,37674,beige,26691,pacific,40187.0
+3,nissan,23404,F-150,6335,van,14054,,,tx,22179,gray,37458,tan,19868,northeast,36085.0
+4,toyota,18554,Camry,5840,hatchback,12441,,,ga,16458,blue,22714,—,5274,southwest,26349.0
+5,dodge,14419,Escape,5691,coupe,9576,,,pa,12769,red,19749,brown,3806,mountain west,10479.0
+6,honda,13157,Focus,5120,wagon,7600,,,nj,12350,others,14114,others,903,,
+7,hyundai,9808,Accord,4532,convertible,5007,,,il,11367,—,11751,red,615,,
+8,bmw,9384,Impala,4007,others,294,,,oh,10707,gold,5032,silver,542,,
+9,kia,8388,3 Series,3767,others,0,,,tn,10262,green,4809,blue,500,,
