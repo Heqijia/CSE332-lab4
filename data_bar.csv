@@ -1,0 +1,8 @@
+,make_k,make_v,model_k,model_v,body_k,body_v,transmission_k,transmission_v,state_k,state_v,color_k,color_v,interior_k,interior_v,region_k,region_v
+0,ford,43094,Altima,8706,sedan,115509,automatic,241376.0,fl,40112,black,49392,black,110867,southeast,85604
+1,chevrolet,28704,Fusion,6443,suv,63912,manual,8624.0,ca,35224,white,47307,gray,80934,midwest,51296
+2,nissan,23404,F-150,6335,cab,21607,,,tx,22179,silver,37674,beige,26691,pacific,40187
+3,toyota,18554,Camry,5840,van,14054,,,ga,16458,gray,37458,tan,19868,northeast,36085
+4,dodge,14419,Escape,5691,hatchback,12441,,,pa,12769,blue,22714,—,5274,southwest,26349
+5,honda,13157,Focus,5120,coupe,9576,,,nj,12350,red,19749,brown,3806,mountain west,10479
+6,others,108668,others,211865,others,12901,,,others,110908,others,35706,others,2560,others,0
